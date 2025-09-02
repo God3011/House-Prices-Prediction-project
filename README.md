@@ -8,4 +8,24 @@ The pipeline includes **data preprocessing, feature engineering, model training 
 ---
 
 ## 📂 Project Structure
+House-Prices-Prediction-project/
+│
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│
+├── notebooks/
+│   └── Prediction.ipynb
+│
+├── dashboard/
+│   ├── house_prices_dashboard.pbix   # 📊 Power BI dashboard file
+│   ├── train_processed.csv
+│   └── submission.csv
+|
+│── Prediction.html
+|
+├── predictions.csv
+└── README.md
+
+
 
