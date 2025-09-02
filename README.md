@@ -1,0 +1,1 @@
+House Prices Prediction Project – A machine learning project using feature engineering and Lasso Regression to predict house prices (Kaggle competition: House Prices: Advanced Regression Techniques). Includes full data preprocessing, feature transformations, cross-validation, and submission generation.
